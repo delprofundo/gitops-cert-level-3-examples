@@ -24,4 +24,4 @@ spec:
         - name: GIT_HASH
           value: "default_kustomize_hash"
         - name: TEST
-          value: good
+          value: bad
