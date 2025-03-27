@@ -23,5 +23,5 @@ spec:
           value: "default_kustomize_branch"
         - name: GIT_HASH
           value: "default_kustomize_hash"
-        - name: TEST
+        - name: TESTO
           value: bad
